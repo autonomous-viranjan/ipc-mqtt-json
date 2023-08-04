@@ -1,5 +1,6 @@
 /*
     @ Viranjan Bhattacharyya
+    Publisher: publishes data to json file
 */
 
 #include <iostream>
