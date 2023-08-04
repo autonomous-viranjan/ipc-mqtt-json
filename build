@@ -1,0 +1,7 @@
+g++ simplePublisher.cpp -lpaho-mqttpp3 -lpaho-mqtt3as -o simplePublisher
+
+g++ simpleSubscriber.cpp -lpaho-mqttpp3 -lpaho-mqtt3as -o simpleSubscriber
+
+g++ multiPublisher.cpp -lpaho-mqttpp3 -lpaho-mqtt3as -o multiPublisher
+
+g++ multiSubscriber.cpp -lpaho-mqttpp3 -lpaho-mqtt3as -o multiSubscriber
