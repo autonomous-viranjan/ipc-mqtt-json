@@ -1,5 +1,6 @@
 /*
     @ Viranjan Bhattacharyya
+    Subscriber: receives data from json file
 */
 
 #include <iostream>
