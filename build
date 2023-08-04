@@ -5,3 +5,7 @@ g++ simpleSubscriber.cpp -lpaho-mqttpp3 -lpaho-mqtt3as -o simpleSubscriber
 g++ multiPublisher.cpp -lpaho-mqttpp3 -lpaho-mqtt3as -o multiPublisher
 
 g++ multiSubscriber.cpp -lpaho-mqttpp3 -lpaho-mqtt3as -o multiSubscriber
+
+g++ jsonPublisher.cpp -o jsonPub
+
+g++ jsonSubscriber.cpp -o jsonSub
