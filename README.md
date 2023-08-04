@@ -8,3 +8,8 @@ Key dependencies:
 - nlohmann json library
 
 See [https://makesomeshit.com/] for a nice introductory tutorial.
+
+To run:
+* Compile C++ files `bash build`
+* Run MQTT broker `mosquitto`
+* Run publisher and subscriber files
