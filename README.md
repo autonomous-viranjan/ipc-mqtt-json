@@ -1,7 +1,7 @@
 # IPC via MQTT Protocol and json
 
 ## Basic example scripts
-This repository contains examples of MQTT clients using the MQTT 5.0 protocol. A publisher-subscriber scheme is illustrated which can serve as a building block for more complex communication architectures. 
+This repository contains examples of MQTT clients using the MQTT 5.0 protocol. A publisher-subscriber design is illustrated which can serve as a building block for more complex communication architectures. 
 
 Key dependencies:
 - Mosquitto MQTT broker
